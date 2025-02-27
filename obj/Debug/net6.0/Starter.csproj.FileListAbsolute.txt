@@ -1,0 +1,14 @@
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.exe
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.deps.json
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.dll
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.pdb
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+c:\.Projects\C#\MicorosoftC#\Mini_Game\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll
